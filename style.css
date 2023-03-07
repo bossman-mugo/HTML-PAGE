@@ -60,6 +60,33 @@ button {
          text-align: center;
 
    }
+
+   .No-numbers 
+   {
+      list-style: none;
+      padding: 0;
+      margin:0;
+      display: flex;
+      justify-content: center;
+      word-spacing: 2em;
+      justify-content: space-between;
+
+   }
+
+   .No-numbers li 
+      { 
+        word-spacing: normal;
+    
+    }
+
+    .No-numbers a 
+     { 
+        color: black;
+     }
+
+   
+
+ 
  
 
  
